@@ -1,5 +1,8 @@
--Carne
--Fruta
--Suco
--laranja
-biscoito
+Lista de Compras:
+- Arroz
+- Feijão
+- Carne
+- Fruta
+- Suco
+- Laranja
+- Biscoito
